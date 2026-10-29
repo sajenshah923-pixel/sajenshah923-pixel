@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## My name is Sajen Shah and I'm a freshmen applied math major at UCLA!
+## I'm interested in soccer, skiing, basketball, and math!
 <!--
 **sajenshah923-pixel/sajenshah923-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
